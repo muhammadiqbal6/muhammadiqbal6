@@ -24,6 +24,11 @@ Feel free to reach out to me through any of the above platforms or:
 
 - Email: muhammadiqbal11@duck.com
 
+## 🔥 My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadiqbal6&layout=compact&theme=radical)
+
+
 ### My Favorite Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
